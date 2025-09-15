@@ -1,7 +1,7 @@
 # Announcements
 
-Classes will start on the 16th of September, unless
-the schedule changes...
+Classes will start on the 16th of September a short Labs session, unless
+the schedule changes to Wednesday.
 
 Tentative Dates
 + Test# 1 - 
