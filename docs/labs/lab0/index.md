@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Environment setup...
+Google Colab environment preview...
 
 ## Materials:
 
