@@ -2,6 +2,8 @@
 
 * [Lab 0](lab0) - Environment setup;
 
+* [Lab 1](lab1) - MapReduce;
+
 <!--
 
 * [Lab 1](lab1) - MapReduce;
@@ -18,6 +20,10 @@
 -->
 # Lab Assignments
 
+<!--
+
 * [Project #1]()
 
 * [Project #2]()
+
+-->
