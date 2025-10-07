@@ -1,10 +1,12 @@
-# Lab 1
+# Lab 2
 
 ## Objectives
 
 + MapReduce Programming Exercises.
+  + Present the solution of the first set of exercices;
+  + Continue solving the rest of the exercises.
 
 ## Materials:
-[MrJob + MapReduce example](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab1/SPBD_Labs_mapreduce1.ipynb)
+[Solution to MapReduce 1.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab2/SPBD_Labs_mapreduce2_exercise_sol_part1.ipynb)
 
-[Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab1/SPBD_Labs_mapreduce2_exercise.ipynb)
+[MapReduce Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab1/SPBD_Labs_mapreduce2_exercise.ipynb)
