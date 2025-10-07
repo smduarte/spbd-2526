@@ -7,6 +7,6 @@
 + Spark Core Programming Exercises.
 
 ## Materials:
-[Solution to MapReduce 2.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab2/SPBD_Labs_mapreduce2_exercise_sol_part2.ipynb)
+[Solution to MapReduce 2.x Exercises](SPBD_Labs_mapreduce2_exercise_sol_part2.ipynb)
 
 [MapReduce Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab1/SPBD_Labs_spark1_exercise.ipynb)
