@@ -3,7 +3,9 @@
 * [Lab 0](lab0) - Environment setup;
 
 * [Lab 1](lab1) - MapReduce (1);
-* [Lab 2](lab2) - MapReduce (2); 
+* [Lab 2](lab2) - MapReduce (2);
+* [Lab 3](lab3) - Spark Core;
+
 
 <!--
 
