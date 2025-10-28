@@ -2,15 +2,9 @@
 
 ## Objectives
 
-+ Present the solution for the first set of Spark Core exercices;
-
-+ Spark Core Programming Exercises.
++ [Spark Dataframes](https://spark.apache.org/docs/latest/api/python/) programming, using Python (Pyspark);
 
 ## Materials:
-[Solution to Spark Core 1.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercises_solution_part1.ipynb)
+[Solution to Lab3 Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise_solution.ipynb)
 
-[Spark Core Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise.ipynb)
-
-[Solution to Spark Core 2.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise_solution_part2.ipynb
-)
-
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab4/SPBD_Labs_spark2_exercise.ipynb)
