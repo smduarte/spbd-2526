@@ -1,12 +1,16 @@
-# Lab 3
+# Lab 4
 
 ## Objectives
 
-+ Present the solution for the second set of Map Reduce exercices;
++ Present the solution for the first set of Spark Core exercices;
 
 + Spark Core Programming Exercises.
 
 ## Materials:
-[Solution to MapReduce 2.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab3/SPBD_Labs_mapreduce2_exercises_sol_part2.ipynb)
+[Solution to Spark Core 1.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercises_solution_part1.ipynb)
 
-[Spark Core Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab3/SPBD_Labs_spark1_exercise.ipynb)
+[Spark Core Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise.ipynb)
+
+[Solution to Spark Core 2.x Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise_solution_part2.ipynb
+)
+
