@@ -6,6 +6,7 @@
 * [Lab 2](lab2) - MapReduce (2);
 * [Lab 3](lab3) - Spark Core (1);
 * [Lab 4](lab4) - Spark Core (2);
+* [Lab 5](lab5) - Spark Dataframes;
 
 
 <!--
