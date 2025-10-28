@@ -1,14 +1,10 @@
-# Lab 5
+# Lab 4
 
 ## Objectives
 
-+ [Spark SQL](https://spark.apache.org/docs/latest/api/python/) programming, using Python Spark SQL statements (Pyspark).
++ [Spark Dataframes](https://spark.apache.org/docs/latest/api/python/) programming, using Python (Pyspark);
 
 ## Materials:
-[SQL Cheat-Sheet](https://github.com/smduarte/spbd-2425/blob/main/docs/labs/lab5/SQL-cheat-sheet.pdf)
+[Solution to Lab3 Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab4/SPBD_Labs_spark1_exercise_solution.ipynb)
 
-[Solution to Lab4 Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab5/SPBD_Labs_spark2_exercise_solution.ipynb)
-
-
-[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab5/SPBD_Labs_spark3_exercise.ipynb)
-
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab4/SPBD_Labs_spark2_exercise.ipynb)
