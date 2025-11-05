@@ -5,8 +5,4 @@ the schedule changes to Wednesday.
 
 Tentative Dates
 + Test# 1 - October 22, 13h00-14h30
-+ Test# 2 - 
-
-+ Project Assignment #1 - 
-+ Project Assignment #2 - 
-
++ Test# 2 - December 17
