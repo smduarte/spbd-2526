@@ -9,6 +9,9 @@
 * [Lab 5](lab5) - Spark Dataframes;
 * [Lab 6](lab6) - Spark SQL;
 
+# Lab Assignments
+
+* [Project #1](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/projs/SPBD2526_Proj1.ipynb)
 
 <!--
 
@@ -21,14 +24,13 @@
 * [Lab 7](lab6) - Project Support;
 * [Lab 8](lab6) - Project Support;
 * [Lab 9](lab9) - Spark Streaming;
-* [Lab 10](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbd2425_tp2.ipynb) - Project Support;
+* [Lab 10](smduarte/spbd-2425/blob/main/docs/labs/projs/spbd2425_tp2.ipynb) - Project Support;
+
 
 -->
-# Lab Assignments
 
 <!--
 
-* [Project #1]()
 
 * [Project #2]()
 
