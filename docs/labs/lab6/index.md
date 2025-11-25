@@ -10,3 +10,6 @@
 
 [Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab6/SPBD_Labs_spark3_exercise.ipynb)
 
+[Solution](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab6/SPBD_Labs_spark3_exercise_solution.ipynb)
+
+
