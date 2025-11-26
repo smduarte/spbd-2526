@@ -8,6 +8,7 @@
 * [Lab 4](lab4) - Spark Core (2);
 * [Lab 5](lab5) - Spark Dataframes;
 * [Lab 6](lab6) - Spark SQL;
+* [Lab 7](lab7) - Spark Structured Streaming;
 
 # Lab Assignments
 
