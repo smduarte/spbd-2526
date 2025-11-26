@@ -6,7 +6,7 @@
 
 ## Materials:
 
-[Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab7/SPBD_Labs_spark7_exercise.ipynb)
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/lab7/SPBD_Labs_spark4_exercise.ipynb)
 
 [Solution](soon...)
 
