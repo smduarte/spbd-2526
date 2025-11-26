@@ -2,7 +2,7 @@
 
 ## Objectives
 
-+ [Spark Structured Streaming](https://spark.apache.org/docs/latest/api/python/) programming.
++ [Spark Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) programming.
 
 ## Materials:
 
