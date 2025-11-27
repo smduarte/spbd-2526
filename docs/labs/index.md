@@ -13,6 +13,7 @@
 # Lab Assignments
 
 * [Project #1](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/projs/SPBD2526_Proj1.ipynb)
+* [Project #2](https://colab.research.google.com/github/smduarte/spbd-2526/blob/main/docs/labs/projs/SPBD2526_Proj2.ipynb)
 
 <!--
 
