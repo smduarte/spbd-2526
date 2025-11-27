@@ -1,7 +1,6 @@
 """
-Created on Mon Apr 29 00:51:20 2019
 
-@author: nmp
+@author: smd
 """
 
 import time
