@@ -1,8 +1,10 @@
-# Announcements
 
-Classes will start on the 16th of September a short Labs session, unless
-the schedule changes to Wednesday.
+## Evaluation Results
 
-Tentative Dates
+[T1 Results](https://github.com/smduarte/spbd-2526/blob/main/docs/SPBD%202526%20-%20Results-T1.pdf)
+
+
 + Test# 1 - October 22, 13h00-14h30
-+ Test# 2 - December 17
++ Test# 2 - December 17, 14h00-16h00
+
+
